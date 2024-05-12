@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Projects
 [Multiplayer First Person Shooter](https://github.com/andreso4389/Multiplayer-FPS-Project) using Unity3D, and Photon Engine.
 
-![Clip4 (gunfight)- Trimmed](https://gist.github.com/assets/68661698/fe5536c3-7789-42f5-a8a0-5558cb368ae6)
+![Clip4 (gunfight)- Trimmed](https://github.com/andreso4389/andreso4389/assets/68661698/3dec8c82-3ee3-4ad0-8dc8-b693df383256)
 
 # Work Experience
 Data Annotation - AI Software Engineer
