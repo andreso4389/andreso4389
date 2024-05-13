@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ![Clip4 (gunfight)- Trimmed](https://github.com/andreso4389/andreso4389/assets/68661698/3dec8c82-3ee3-4ad0-8dc8-b693df383256)
 
 # Work Experience
-Data Annotation - AI Software Engineer
+**Data Annotation - AI Software Engineer**
+
 February 2024 - present
+
 Training AI to respond with correct coding solutions in C#, Python, C++, and Java.
