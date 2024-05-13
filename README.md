@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 
 # Work Experience
 Data Annotation - AI Software Engineer
+February 2024 - present
 Training AI to respond with correct coding solutions in C#, Python, C++, and Java.
